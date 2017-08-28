@@ -1,0 +1,5 @@
+name: CqJukebox
+author: Spearhartt
+main: com.conquestiamc.CqJukebox
+version: 0.1
+depend: [NoteBlockAPI, WorldGuard]

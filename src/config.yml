@@ -1,0 +1,7 @@
+regions:
+  example_1:
+    loop: true
+    playlist:
+    - Song 1
+    - Song 2
+    - Song 3
